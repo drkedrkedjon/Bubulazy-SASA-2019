@@ -1,0 +1,15 @@
+<footer class="menubottom">
+    {{ if .PrevInSection }}
+       <a href="{{.PrevInSection.Permalink}}">Anterior</a> 
+    {{ end }}
+        | <a href="/">HOME</a> |
+    {{ if .NextInSection }}
+        <a href="{{.NextInSection.Permalink}}">Próximo</a>
+    {{ end }} <br><br>
+    <p>
+        <small>
+            {{ $.Site.Params.description }}
+        </small>
+    </p>
+
+</footer>

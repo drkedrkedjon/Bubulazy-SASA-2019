@@ -1,0 +1,23 @@
+# All
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://savic.com/sitemap.xml
+
+# Block Images
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: msnbot-media
+Disallow: /
+
+User-agent: Yahoo-MMCrawler
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+# Block bots
+User-agent: Curious George
+Disallow: /

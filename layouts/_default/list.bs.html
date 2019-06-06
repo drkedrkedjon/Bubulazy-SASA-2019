@@ -1,0 +1,30 @@
+
+
+{{ define "site-header"}}
+    {{ partial "header.html" . }}
+{{ end }}
+
+{{ define "main-list" }}
+<main class="list-main">
+    <section>
+        <h1>
+            Lista kategorije
+        </h1>
+    </section>
+    {{ range .Pages  }}
+        <article class="list-main-subgrid">
+            <h2>
+                <a href="{{ .RelPermalink }}">{{ .Name }}</a>
+            </h2>
+            <blockquote>
+                {{ .Description }}
+            </blockquote>
+            {{ .Content | truncate 250 }}
+        </article>
+    {{ end }}
+</main>
+{{ end }}
+
+{{ define "site-footer"}}
+    {{ partial "footer.html" . }}
+{{ end }}

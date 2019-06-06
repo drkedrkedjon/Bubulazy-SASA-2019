@@ -1,0 +1,33 @@
+baseURL = "https://bubulazy.com/"
+languageCode = "es"
+DefaultContentLanguage = "es"
+defaultContentLanguageInSubdir = "true"
+sectionPagesMenu = "menutop"
+canonifyURLs = "true"
+[languages]
+    [languages.es]
+        title = "La higiene mental"
+        languageName = "Español"
+        description = "Nativamente, sueño en bosnio. La disputa sobre la existencia de tal lenguaje está disponible en algún lugar, pero no aquí. Bosnio, inglés y español (aprendidos en diferentes edades) son idiomas elegidos aquí. La intención es mejorar mis habilidades de escritura y mejorar a los tres, para que sean “lo suficientemente buenos”."
+        copyright = "©MisCojones™ 1996-2019"
+        weight = 1
+    [languages.bs]
+        title = "Mentalna Higijena"
+        languageName = "Bosanski"
+        description = "Nativno, sanjam na bosanskom. Spor o postojanju jednog takvog jezika postoji negdje, ali ne ovdje. Bosanski, engleski i španski (savladani u različitim uzrastima) su ovdje izabrani jezici. Namjera je da se moja vještina pisanja poboljša na sva tri, kako bi postala “dovoljno dobra”."
+        copyright = "©MojaMuda™ 1996-2019"
+        weight = 2
+    [languages.en]
+        title = "Mental Hygiene"
+        languageName = "English"
+        description = "Natively, I dream in Bosnian. The dispute about the existence of such language is available somewhere, but not here. Bosnian, English & Spanish (learned at diferent ages) are languages of choice here. Intention is to up my writing skils and improve all three of them, to be “good enough”."
+        copyright = "©MyBalls™ 1996-2019"
+        weight = 3
+
+[params]
+
+
+[[menu.menutop]]
+    name = "Home"
+    url = "/"
+    weight = -1

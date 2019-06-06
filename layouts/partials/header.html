@@ -1,0 +1,14 @@
+<header>
+    <nav class="menutop">
+        {{ range .Site.Menus.menutop }}
+        &nbsp;<a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>&nbsp;
+        {{ end }} <br>
+        {{ if .IsTranslated }}
+            {{ range .Translations }}
+                <small>
+                    &nbsp;<a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>&nbsp;
+                </small>
+            {{ end}}
+        {{ end }}
+    </nav>
+</header>

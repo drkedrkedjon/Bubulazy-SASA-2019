@@ -1,0 +1,23 @@
+{{ define "site-header"}}
+    {{ partial "header.html" . }}
+{{ end }}
+
+{{ define "title" }}
+  {{ .Title }}
+{{ end }}
+
+{{ define "main-single" }}
+
+<div style="text-align:center; margin:10vw;">
+    <h1>Upsss, algo salio mal...</h1>
+    <p>
+       <a class="myButton" href="/">Mejor regresar a pagina de inicio --> </a>
+    </p>
+</div>
+  
+
+{{ end }}
+
+{{ define "site-footer"}}
+    {{ partial "footer.html" . }}
+{{ end }}

@@ -1,0 +1,37 @@
+
+
+{{ define "site-header"}}
+    {{ partial "header.html" . }}
+{{ end }}
+
+{{ define "title" }}
+  {{ .Title }}
+{{ end }}
+
+{{ define "main-single" }}
+<main class="single-main">
+	<section>
+		<h1>
+			{{ .Title }}
+		</h1>
+	</section>
+	<section>
+		<blockquote>
+			{{ .Description }}
+		</blockquote>	
+	</section>
+	<article>
+	 	{{ .Content }}
+	</article>
+	<aside>
+  		<p>
+   			<em>{{ .Date.Format "Monday, January 2, 2006" }} </em><br>
+   			{{ $.Site.Params.copyright }}
+   		</p>
+	</aside>
+</main>
+{{ end }}
+
+{{ define "site-footer"}}
+    {{ partial "footer.html" . }}
+{{ end }}

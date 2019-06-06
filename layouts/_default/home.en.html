@@ -1,0 +1,28 @@
+{{ define "site-header"}}
+    {{ partial "header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<section>
+    <h1>
+        {{ $.Site.Params.title }}
+    </h1>
+</section>
+<main class="home-main">
+        {{ range .Pages  }}
+            <article class="home-main-subgrid">
+                <h2>
+                    <a href="{{ .RelPermalink }}">{{ .Name }}</a>
+                </h2>
+                <blockquote>
+                    {{ .Description }}
+                </blockquote>
+                {{ .Content | truncate 250 }}
+            </article>
+        {{ end }}
+    </main>
+{{ end }}
+
+{{ define "site-footer"}}
+    {{ partial "footer.html" . }}
+{{ end }}
