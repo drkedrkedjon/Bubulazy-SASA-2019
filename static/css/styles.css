@@ -9,6 +9,8 @@
     src: url("../fonts/IBMPlexSansVar-Roman.woff2") format("woff2");
 }
 body {
+    background-image: url("/images/star.svg");
+    background-repeat: no-repeat;
     background-color: var(--grisnegro);
     margin: 5vw;
 }

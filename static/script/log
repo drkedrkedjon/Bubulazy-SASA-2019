@@ -1,0 +1,98 @@
+1:35:16 PM: Build ready to start
+1:35:17 PM: build-image version: 8e315e54bc4032a32e73290be556cde4f8348c12
+1:35:17 PM: build-image tag: v2.8.2
+1:35:17 PM: buildbot version: 1c5d5da2a8a19e94f07a53f82f5c9b010bad1249
+1:35:18 PM: Fetching cached dependencies
+1:35:18 PM: Failed to fetch cache, continuing with build
+1:35:18 PM: Starting to prepare the repo for build
+1:35:18 PM: No cached dependencies found. Cloning fresh repo
+1:35:18 PM: git clone https://github.com/drkedrkedjon/Bubulazy-SASA-2019
+1:35:19 PM: Preparing Git Reference refs/heads/master
+1:35:20 PM: Starting build script
+1:35:20 PM: Installing dependencies
+1:35:22 PM: Downloading and installing node v10.16.0...
+1:35:22 PM: Downloading https://nodejs.org/dist/v10.16.0/node-v10.16.0-linux-x64.tar.xz...
+1:35:22 PM: #
+1:35:22 PM:                                                                           2.6%
+1:35:22 PM: 
+#####################################################
+1:35:22 PM:      74.6%
+1:35:22 PM: 
+#####################################
+1:35:22 PM: ################################### 100.0%
+1:35:22 PM: Computing checksum with sha256sum
+1:35:22 PM: Checksums matched!
+1:35:25 PM: Now using node v10.16.0 (npm v6.9.0)
+1:35:26 PM: Attempting ruby version 2.6.2, read from environment
+1:35:27 PM: Using ruby version 2.6.2
+1:35:27 PM: Using PHP version 5.6
+1:35:27 PM: Started restoring cached go cache
+1:35:27 PM: Finished restoring cached go cache
+1:35:27 PM: unset GOOS;
+1:35:27 PM: unset GOARCH;
+1:35:27 PM: export GOROOT='/opt/buildhome/.gimme/versions/go1.12.linux.amd64';
+1:35:27 PM: export PATH="/opt/buildhome/.gimme/versions/go1.12.linux.amd64/bin:${PATH}";
+1:35:27 PM: go version >&2;
+1:35:27 PM: export GIMME_ENV='/opt/buildhome/.gimme/env/go1.12.linux.amd64.env';
+1:35:27 PM: go version go1.12 linux/amd64
+1:35:27 PM: Installing missing commands
+1:35:27 PM: Verify run directory
+1:35:27 PM: Executing user command: hugo
+1:35:28 PM: Started building sites ...
+1:35:28 PM: ERROR: 2019/06/07 12:35:28 template.go:477: template: /opt/build/repo/layouts/_default/baseof.html:20: function "truncate" not defined
+1:35:28 PM: ERROR: 2019/06/07 12:35:28 template.go:477: template: /opt/build/repo/layouts/_default/baseof.html:20: function "truncate" not defined
+1:35:28 PM: ERROR: 2019/06/07 12:35:28 template.go:477: template: /opt/build/repo/layouts/_default/baseof.html:20: function "truncate" not defined
+1:35:28 PM: ERROR: 2019/06/07 12:35:28 template.go:477: template: /opt/build/repo/layouts/_default/baseof.html:22: function "truncate" not defined
+1:35:28 PM: ERROR: 2019/06/07 12:35:28 template.go:477: template: /opt/build/repo/layouts/_default/baseof.html:21: function "truncate" not defined
+1:35:28 PM: ERROR: 2019/06/07 12:35:28 template.go:477: template: /opt/build/repo/layouts/_default/baseof.html:20: function "truncate" not defined
+1:35:28 PM: ERROR: 2019/06/07 12:35:28 template.go:132: template: partials/header.html:4:45: executing "partials/header.html" at <.Title>: can't evaluate field Title in type *hugolib.MenuEntry in partials/header.html
+1:35:28 PM: ERROR: 2019/06/07 12:35:28 template.go:132: template: partials/footer.html:2:10: executing "partials/footer.html" at <.PrevInSection>: can't evaluate field PrevInSection in type *hugolib.Node in partials/footer.html
+1:35:28 PM: Built site for language es:
+1:35:28 PM: 0 draft content
+1:35:28 PM: 0 future content
+1:35:28 PM: 0 expired content
+1:35:28 PM: 3 pages created
+1:35:28 PM: 2 non-page files copied
+1:35:28 PM: 0 paginator pages created
+1:35:28 PM: 0 tags created
+1:35:28 PM: 0 categories created
+1:35:28 PM: ERROR: 2019/06/07 12:35:28 template.go:132: template: partials/header.html:4:45: executing "partials/header.html" at <.Title>: can't evaluate field Title in type *hugolib.MenuEntry in partials/header.html
+1:35:28 PM: ERROR: 2019/06/07 12:35:28 template.go:132: template: partials/footer.html:2:10: executing "partials/footer.html" at <.PrevInSection>: can't evaluate field PrevInSection in type *hugolib.Node in partials/footer.html
+1:35:28 PM: Built site for language bs:
+1:35:28 PM: 0 draft content
+1:35:28 PM: 0 future content
+1:35:28 PM: 0 expired content
+1:35:28 PM: 3 pages created
+1:35:28 PM: 0 non-page files copied
+1:35:28 PM: 0 paginator pages created
+1:35:28 PM: 0 tags created
+1:35:28 PM: 0 categories created
+1:35:28 PM: ERROR: 2019/06/07 12:35:28 template.go:132: template: partials/header.html:4:45: executing "partials/header.html" at <.Title>: can't evaluate field Title in type *hugolib.MenuEntry in partials/header.html
+1:35:28 PM: ERROR: 2019/06/07 12:35:28 template.go:132: template: partials/footer.html:2:10: executing "partials/footer.html" at <.PrevInSection>: can't evaluate field PrevInSection in type *hugolib.Node in partials/footer.html
+1:35:28 PM: Built site for language en:
+1:35:28 PM: 0 draft content
+1:35:28 PM: 0 future content
+1:35:28 PM: 0 expired content
+1:35:28 PM: 3 pages created
+1:35:28 PM: 0 non-page files copied
+1:35:28 PM: 0 paginator pages created
+1:35:28 PM: 0 tags created
+1:35:28 PM: 0 categories created
+1:35:28 PM: total in 49 ms
+1:35:28 PM: Skipping functions preparation step: no functions directory set
+1:35:28 PM: Caching artifacts
+1:35:28 PM: Started saving pip cache
+1:35:29 PM: Finished saving pip cache
+1:35:29 PM: Started saving emacs cask dependencies
+1:35:29 PM: Finished saving emacs cask dependencies
+1:35:29 PM: Started saving maven dependencies
+1:35:29 PM: Finished saving maven dependencies
+1:35:29 PM: Started saving boot dependencies
+1:35:29 PM: Finished saving boot dependencies
+1:35:29 PM: Started saving go dependencies
+1:35:29 PM: Finished saving go dependencies
+1:35:31 PM: Error running command: Build script returned non-zero exit code: 255
+1:35:31 PM: Failing build: Failed to build site
+1:35:31 PM: failed during stage 'building site': Build script returned non-zero exit code: 255
+1:35:31 PM: Finished processing build request in 13.922485938s
+1:35:31 PM: Shutting down logging, 0 messages pending
