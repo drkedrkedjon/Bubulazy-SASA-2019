@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://savic.com/sitemap.xml
+Sitemap: https://bubulazy.com/sitemap.xml
 
 # Block Images
 User-agent: Googlebot-Image

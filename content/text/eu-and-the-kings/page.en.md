@@ -2,7 +2,7 @@
 title: "The European Union and the kings of tomorrow"
 date: 2017-10-22T12:38:51+01:00
 draft: false
-description: "Is fascism politically manipulated cultural default in white, christian and liberal capitalist states?"
+description: "Fascism, a cultural default and clearly politically manipulated thing, is always present in the white, Christian and liberal capitalist states"
 menu: "main"
 ---
 <img src="/es/text/eu-and-the-kings/pandurica.jpg">
