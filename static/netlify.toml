@@ -30,10 +30,6 @@ HUGO_VERSION = "0.55.6"
 HUGO_ENABLEGITINFO = "true"
 
 
-
-
-
-
 [[redirects]]
     from = "/"
     to = "/bs"
