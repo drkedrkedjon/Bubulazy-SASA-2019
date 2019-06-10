@@ -3,10 +3,12 @@
 @font-face {
     font-family: 'special_elite';
     src: url('../fonts/specialelite-webfont.woff2') format('woff2');
+    font-display: swap;
 }
 @font-face {
     font-family: 'IBM Plex SansVar Roman';
     src: url("../fonts/IBMPlexSansVar-Roman.woff2") format("woff2");
+    font-display: swap;
 }
 body {
     background-image: url("/images/star.svg");

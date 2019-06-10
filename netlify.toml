@@ -22,3 +22,12 @@
     status = 302
     force = false
     conditions = {Language = ["en"]}
+[[headers]]
+    for = "/*"
+[headers.values]
+    Cache-Control = ["public","max-age=86400"]
+    Referrer-Policy = "no-referrer"
+    Strict-Transport-Security = "max-age=31536000; includeSubdomains; preload"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    X-Xss-Protection = "1; mode=block"
