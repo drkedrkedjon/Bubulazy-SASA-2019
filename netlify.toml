@@ -1,0 +1,18 @@
+[[redirects]]
+    from = "/"
+    to = "bs"
+    status = 302
+    force = false
+    conditions = {Language = ["bs","hr","sr"]}
+[[redirects]]
+    from = "/"
+    to = "es"
+    status = 302
+    force = false
+    conditions = {Language = ["es"]}
+[[redirects]]
+    from = "/"
+    to = "en"
+    status = 302
+    force = false
+    conditions = {Language = ["en"]}
