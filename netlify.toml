@@ -25,7 +25,7 @@
 [[headers]]
     for = "/*"
 [headers.values]
-    Cache-Control = ["public","max-age=864000"]
+    Cache-Control = ["public","max-age=8640000"]
     Referrer-Policy = "no-referrer"
     Strict-Transport-Security = "max-age=31536000; includeSubdomains; preload"
     X-Content-Type-Options = "nosniff"
