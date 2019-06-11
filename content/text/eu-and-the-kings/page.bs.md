@@ -2,24 +2,12 @@
 title: "Evropska unija i neki budići kraljevi"
 date: 2017-10-22T12:38:42+01:00
 draft: false
+tags: "blogging"
 description: "Fašizam, politički manipulisan, uvijek je prisutan kao kulturna baza po defaultu u bijelim, kršćanskim i liberalnim kapitalističkim državama."
 menu: "main"
 ---
-<img
-sizes="(max-width: 1500px) 100vw, 1500px"
-srcset="
-/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_300.jpg 300w,
-/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_560.jpg 560w,
-/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_745.jpg 745w,
-/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_906.jpg 906w,
-/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1052.jpg 1052w,
-/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1186.jpg 1186w,
-/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1309.jpg 1309w,
-/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1447.jpg 1447w,
-/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1485.jpg 1485w,
-/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1500.jpg 1500w"
-src="6pandurica_z91rxq_c_scale,w_1500.jpg"
-alt="Poklopac na jami Pandurica">
+
+<img sizes="(max-width: 1500px) 100vw, 1500px" srcset="/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_300.jpg 300w, /es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_560.jpg 560w, /es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_745.jpg 745w, /es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_906.jpg 906w, /es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1052.jpg 1052w, /es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1186.jpg 1186w, /es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1309.jpg 1309w, /es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1447.jpg 1447w, /es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1485.jpg 1485w, /es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1500.jpg 1500w" src="6pandurica_z91rxq_c_scale,w_1500.jpg" alt="Poklopac na jami Pandurica">
 
 Ponekad, čini nam se da demokratija funkcioniše kako je i zamišljeno. Ali da bi se to dogodilo, interesi vladajuće klase (današnji kraljevi) moraju doći u ravnotežu sa interesima vladajuće klase (današnji subjekti). Na primer, komercijalni avioni retko padaju sa neba jer i kraljevi danas lete u njima. Iz tog razloga je avio industrija jako regulirana. I dok se određeni klasni interesi podudaraju, iluzija demokratije je sačuvana.
 
