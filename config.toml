@@ -3,7 +3,7 @@ languageCode = "es"
 DefaultContentLanguage = "es"
 defaultContentLanguageInSubdir = "true"
 sectionPagesMenu = "menutop"
-canonifyURLs = "true"
+canonifyURLs = "false"
 [languages]
     [languages.es]
         title = "La higiene mental"
