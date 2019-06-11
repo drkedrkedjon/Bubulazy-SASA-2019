@@ -2,9 +2,24 @@
 title: "La Unión Europea y los reyes de mañana."
 date: 2017-10-22T12:38:47+01:00
 draft: false
-description: "El fascismo, un predeterminado cultural y claramente manipulado políticamente, está siempre presente en los estados capitalistas blancos, cristianos y liberales."
+description: "El fascismo, manipulado políticamente, está siempre presente como una base cultural por defecto en los países capitalistas blancos, cristianos y liberales."
 ---
-<img src="/es/text/eu-and-the-kings/pandurica.jpg">
+
+<img
+sizes="(max-width: 1500px) 100vw, 1500px"
+srcset="
+/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_300.jpg 300w,
+/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_560.jpg 560w,
+/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_745.jpg 745w,
+/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_906.jpg 906w,
+/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1052.jpg 1052w,
+/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1186.jpg 1186w,
+/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1309.jpg 1309w,
+/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1447.jpg 1447w,
+/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1485.jpg 1485w,
+/es/text/eu-and-the-kings/pandurica_z91rxq_c_scale,w_1500.jpg 1500w"
+src="6pandurica_z91rxq_c_scale,w_1500.jpg"
+alt="Cubierta de la cueva pandurica">
 
 De vez en cuando, nos encontramos con la democracia funcionando tal como se esperaba. Pero para que eso suceda, los intereses de la clase dominante (reyes de hoy) deben alinearse con los intereses de la clase gobernada (sujetos de hoy). Por ejemplo, los aviones comerciales rara vez caen de los cielos porque los reyes de hoy también vuelan en ellos. Por ese motivo la industria aérea está fuertemente regulada. Y como ciertos intereses de clase han coincidido, se conserva la ilusión de democracia.
 
