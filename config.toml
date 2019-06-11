@@ -1,4 +1,4 @@
-baseURL = "https://branchdetailsfixing.bubulazy.com/"
+baseURL = "https://bubulazy.com/"
 languageCode = "es"
 DefaultContentLanguage = "es"
 defaultContentLanguageInSubdir = "true"
