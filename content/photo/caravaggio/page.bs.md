@@ -1,7 +1,7 @@
 ---
 title: "Tražeći Rembrandta našao sam Caravaggia"
 date: 2019-06-11T21:01:56+01:00
-draft: true
+draft: false
 tags: "blogging"
 description: "Igranje sa aplikacijom Affinity Photo za iPad i sviđa mi se. Iskreno, za moj fotografski hobi iPad je sve što mi treba."
 menu: "main"

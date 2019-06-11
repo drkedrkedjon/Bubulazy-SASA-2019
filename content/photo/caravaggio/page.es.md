@@ -1,7 +1,7 @@
 ---
 title: "Buscando a Rembrandt encontré a Caravaggio"
 date: 2019-06-11T21:01:31+01:00
-draft: true
+draft: false
 tags: "blogging"
 description: "Jugando con el Affinity Photo para el iPad y me gusta. Sinceramente, para mi hobby de fotografia el iPad es todo lo que necesito."
 menu: "main"
