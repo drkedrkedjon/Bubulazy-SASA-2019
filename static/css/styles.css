@@ -11,10 +11,14 @@
     font-display: swap;
 }
 body {
-    background-image: url("/images/star.svg");
-    background-repeat: no-repeat;
-    background-color: var(--grisnegro);
     margin: 5vw;
+}
+@supports (--css: variables) {
+    body {
+        background-image: url("/images/star.svg");
+        background-repeat: no-repeat;
+        background-color: var(--grisnegro);
+    }
 }
 html {
     font-size: 2vw;
