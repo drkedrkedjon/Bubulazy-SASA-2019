@@ -1,7 +1,7 @@
 ---
 title: "For sure, Trump will be re-elected in 2020"
 date: 2019-06-13T17:20:24+01:00
-draft: true
+draft: false
 tags: "blogging"
 description: "Trump, not only he makes the republicans far richer and more powerful but, he also do the same to the democrats. Trump knows that, and democrats knows too."
 menu: "main"

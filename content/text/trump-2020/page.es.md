@@ -1,7 +1,7 @@
 ---
 title: "Sin duda, Trump será reelegido en 2020"
 date: 2019-06-13T17:20:13+01:00
-draft: true
+draft: false
 tags: "blogging"
 description: "Trump, no solo hace que los republicanos sean mucho más ricos y poderosos, sino que también hace lo mismo con los demócratas. Trump lo sabe, y los demócratas lo saben también."
 menu: "main"

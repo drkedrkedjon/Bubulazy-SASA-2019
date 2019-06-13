@@ -1,7 +1,7 @@
 ---
 title: "Naravno da će Trump ponovno biti izabran u 2020"
 date: 2019-06-13T17:20:30+01:00
-draft: true
+draft: false
 tags: "blogging"
 description: "Trump, ne samo da republikance čini daleko bogatijima i mnogo moćnijima, nego to isto čini i sa demokratima. Trump to zna, a fakat je i da to isto znaju i te demokratske guzonje."
 menu: "main"
