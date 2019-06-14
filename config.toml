@@ -1,4 +1,4 @@
-baseURL = "https://bubulazy.com/"
+baseURL = "https://testing.bubulazy.com/"
 languageCode = "es"
 DefaultContentLanguage = "es"
 defaultContentLanguageInSubdir = "true"
