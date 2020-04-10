@@ -6,21 +6,21 @@
     HUGO_VERSION = "0.55.6"
 [[redirects]]
     from = "/"
-    to = "bs"
+    to = "/bs"
     status = 302
-    force = false
+    force = true
     conditions = {Language = ["bs","hr","sr"]}
 [[redirects]]
     from = "/"
-    to = "es"
+    to = "/es"
     status = 302
-    force = false
+    force = true
     conditions = {Language = ["es"]}
 [[redirects]]
     from = "/"
-    to = "en"
+    to = "/en"
     status = 302
-    force = false
+    force = true
     conditions = {Language = ["en"]}
 [[headers]]
     for = "/*"
